@@ -23,5 +23,6 @@
             https://www.w3schools.com/php/func_mysqli_connect_errno.asp*/
         echo "Connectted via" . mysqli_get_host_info($DBC); 
     ?>
+    
 </body>
 </html>
